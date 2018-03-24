@@ -13,6 +13,8 @@
 		DE6681F620666D5800A32908 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DE6681F520666D5800A32908 /* Assets.xcassets */; };
 		DE6681F920666D5800A32908 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DE6681F720666D5800A32908 /* LaunchScreen.storyboard */; };
 		DE6681FC20666D5800A32908 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = DE6681FB20666D5800A32908 /* main.m */; };
+		DE66820320666D9200A32908 /* DK Cinnabar Brush.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DE66820220666D9100A32908 /* DK Cinnabar Brush.ttf */; };
+		DE66820520666D9A00A32908 /* Cheveuxdange.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DE66820420666D9900A32908 /* Cheveuxdange.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		DE6681F820666D5800A32908 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DE6681FA20666D5800A32908 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DE6681FB20666D5800A32908 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		DE66820220666D9100A32908 /* DK Cinnabar Brush.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "DK Cinnabar Brush.ttf"; sourceTree = "<group>"; };
+		DE66820420666D9900A32908 /* Cheveuxdange.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Cheveuxdange.ttf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +71,8 @@
 				DE6681F720666D5800A32908 /* LaunchScreen.storyboard */,
 				DE6681FA20666D5800A32908 /* Info.plist */,
 				DE6681FB20666D5800A32908 /* main.m */,
+				DE66820220666D9100A32908 /* DK Cinnabar Brush.ttf */,
+				DE66820420666D9900A32908 /* Cheveuxdange.ttf */,
 			);
 			path = SnapAttack;
 			sourceTree = "<group>";
@@ -130,7 +136,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				DE6681F920666D5800A32908 /* LaunchScreen.storyboard in Resources */,
+				DE66820520666D9A00A32908 /* Cheveuxdange.ttf in Resources */,
 				DE6681F620666D5800A32908 /* Assets.xcassets in Resources */,
+				DE66820320666D9200A32908 /* DK Cinnabar Brush.ttf in Resources */,
 				DE6681F420666D5800A32908 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
